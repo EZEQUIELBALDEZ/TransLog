@@ -1,0 +1,6 @@
+D:\TransLog\TransLog\Frontend\obj\Debug\net6.0\Frontend.csproj.AssemblyReference.cache
+D:\TransLog\TransLog\Frontend\obj\Debug\net6.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransLog\TransLog\Frontend\obj\Debug\net6.0\Frontend.AssemblyInfoInputs.cache
+D:\TransLog\TransLog\Frontend\obj\Debug\net6.0\Frontend.AssemblyInfo.cs
+D:\TransLog\TransLog\Frontend\obj\Debug\net6.0\Frontend.csproj.CoreCompileInputs.cache
+D:\TransLog\TransLog\Frontend\obj\Debug\net6.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
